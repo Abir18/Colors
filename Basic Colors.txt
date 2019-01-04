@@ -1,3 +1,6 @@
 Red 
 Green
 Blue
+Dark Red 
+Dark Green
+Dark Blue
